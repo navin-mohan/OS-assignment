@@ -1,3 +1,3 @@
 # OS
 
-for detailed instructions on Syscall http://bit.ly/2pUoA6Z
+Read [this](http://bit.ly/2q1Y0Zl) blog post for detailed instructions.
